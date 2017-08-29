@@ -1,0 +1,14 @@
+H:\eCommerceProject\eCommerceProject.DataAccess\bin\Debug\eCommerceProject.DataAccess.dll.config
+H:\eCommerceProject\eCommerceProject.DataAccess\bin\Debug\eCommerceProject.DataAccess.dll
+H:\eCommerceProject\eCommerceProject.DataAccess\bin\Debug\eCommerceProject.DataAccess.pdb
+H:\eCommerceProject\eCommerceProject.DataAccess\bin\Debug\eCommerceProject.Entities.dll
+H:\eCommerceProject\eCommerceProject.DataAccess\bin\Debug\EntityFramework.dll
+H:\eCommerceProject\eCommerceProject.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+H:\eCommerceProject\eCommerceProject.DataAccess\bin\Debug\eCommerceProject.Entities.pdb
+H:\eCommerceProject\eCommerceProject.DataAccess\bin\Debug\EntityFramework.xml
+H:\eCommerceProject\eCommerceProject.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+H:\eCommerceProject\eCommerceProject.DataAccess\bin\Debug\fr\EntityFramework.resources.dll
+H:\eCommerceProject\eCommerceProject.DataAccess\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+H:\eCommerceProject\eCommerceProject.DataAccess\obj\Debug\eCommerceProject.DataAccess.csprojResolveAssemblyReference.cache
+H:\eCommerceProject\eCommerceProject.DataAccess\obj\Debug\eCommerceProject.DataAccess.dll
+H:\eCommerceProject\eCommerceProject.DataAccess\obj\Debug\eCommerceProject.DataAccess.pdb
